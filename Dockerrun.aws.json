@@ -19,6 +19,7 @@
             "name": "worker",
             "image": "anupbisht/multi-worker",
             "essential": false,
+            "hostname": "worker",
             "memory": 128
         },
         {
