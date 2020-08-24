@@ -25,6 +25,7 @@
             "name": "nginx",
             "image": "anupbisht/multi-nginx",
             "essential": true,
+            "hostname": "nginx",
             "memory": 128,
             "portMappings": [
                 {
